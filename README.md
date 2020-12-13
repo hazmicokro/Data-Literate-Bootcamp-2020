@@ -4,5 +4,5 @@ Data Literate Bootcamp 2020 - DSC UMM
 Penyelenggara : Data Science Club UMM
 
 | Hazmi Cokro | \
-Telegram : @hazmicokro
+Telegram : @hazmicokro \
 Instagram : @hazmicokro
