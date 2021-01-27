@@ -16,11 +16,13 @@ Week 7 : XGBoost, RF, Evaluation Model \
 Week 8 : Data Clustering, Time Series, ARIMA \
 
 Quiz : \
-Week 1 : Introduction, Basic Python [Link]() \
-Week 2 : Excel, Preprocessing, pandas \
-Week 3 : Object Oriented Programming (OOP) \
-Week 5 : Linear Regression, Naive Bayes, Docstring \
-Weel 6 : KNN, SVM, Decission Tree \
+Week 1 : Introduction, Basic Python | [Quiz Week 1](blob/main/weekly_task_1_M_Hazmi_Cokro_Mandiri.ipynb) \
+Week 2 : Excel, Preprocessing, pandas | [Quiz Week 2](blob/main/weekly_task_2_M_Hazmi_Cokro_Mandiri.ipynb) \
+Week 3 : Object Oriented Programming (OOP) | [Quiz Week 3](blob/main/weekly_task_3_M_Hazmi_Cokro_Mandiri.ipynb) \
+Week 5 : Linear Regression, Naive Bayes, Docstring | [Quiz Week 5](blob/main/weekly_task_5_M_Hazmi_Cokro_Mandiri_Linear_Regression_|_Naive_Bayes.ipynb) \
+Weel 6 : KNN, SVM, Decission Tree | [Quiz Week 6 DT](blob/main/weekly_task_6_M_Hazmi_Cokro_Mandiri_Decision Trees (DT).ipynb)
+[Quiz Week 6 KNN](blob/main/weekly_task_6_M_Hazmi_Cokro_Mandiri_K Nearest Neighbors (KNN).ipynb)
+[Quiz Week 6 SVM](blob/main/weekly_task_6_M_Hazmi_Cokro_Mandiri_Support Vector Machines (SVM).ipynb)
 
 | Hazmi Cokro | \
 Telegram : [@hazmicokro](t.me/hazmicokro) \
