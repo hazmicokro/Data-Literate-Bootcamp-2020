@@ -6,10 +6,10 @@ Penyelenggara : Data Science Club UMM
 Week 1 : Introduction, Basic Python \
 Week 2 : Excel, Preprocessing, pandas \
 Week 3 : Object Oriented Programming (OOP) \
-Week 4 : \
+Week 4 : Statistics in Computer Science \
 Week 5 : Linear Regression, Naive Bayes, Docstring \
 Weel 6 : KNN, SVM, Decission Tree \
-Week 7 : 
+Week 7 : K-Means 
 
 | Hazmi Cokro | \
 Telegram : @hazmicokro \
